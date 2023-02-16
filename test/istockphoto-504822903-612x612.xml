@@ -1,0 +1,26 @@
+<annotation>
+	<folder>panda</folder>
+	<filename>istockphoto-504822903-612x612.jpg</filename>
+	<path>D:\animaldataset_final\panda\istockphoto-504822903-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>94</ymin>
+			<xmax>339</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

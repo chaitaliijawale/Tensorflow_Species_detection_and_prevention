@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chimpanzee</folder>
+	<filename>chimp (400).jpg</filename>
+	<path>D:\animaldataset_final\chimpanzee\chimp (400).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chimpanzee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>133</ymin>
+			<xmax>319</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chimpanzee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>125</ymin>
+			<xmax>421</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

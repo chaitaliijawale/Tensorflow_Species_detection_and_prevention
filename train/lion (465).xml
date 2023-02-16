@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>lion (465).jpg</filename>
+	<path>D:\animaldataset_final\lion\lion (465).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>41</ymin>
+			<xmax>509</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rhino</folder>
+	<filename>rhino (3).jpg</filename>
+	<path>D:\rhino\rhino (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>7</ymin>
+			<xmax>537</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

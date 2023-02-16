@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rot</folder>
+	<filename>rot (3).jpg</filename>
+	<path>D:\projects\Tomato\dataset\Rot\rot (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blossom_rotw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>52</ymin>
+			<xmax>531</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

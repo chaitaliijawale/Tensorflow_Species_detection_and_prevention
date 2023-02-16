@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>istockphoto-135105685-612x612.jpg</filename>
+	<path>D:\animaldataset_final\lion\istockphoto-135105685-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>28</ymin>
+			<xmax>519</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheetah</folder>
+	<filename>chee (780).jpg</filename>
+	<path>D:\animaldataset_final\cheetah\chee (780).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1494</width>
+		<height>1155</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1096</xmin>
+			<ymin>192</ymin>
+			<xmax>1321</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

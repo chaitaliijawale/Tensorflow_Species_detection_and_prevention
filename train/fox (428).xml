@@ -1,0 +1,26 @@
+<annotation>
+	<folder>arcticfox</folder>
+	<filename>fox (428).jpg</filename>
+	<path>C:\Users\aakas\Downloads\animaldataset_final\animaldataset_final\arcticfox\fox (428).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arcticfox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>182</ymin>
+			<xmax>332</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

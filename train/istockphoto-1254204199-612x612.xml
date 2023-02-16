@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheetah</folder>
+	<filename>istockphoto-1254204199-612x612.jpg</filename>
+	<path>D:\animaldataset_final\cheetah\istockphoto-1254204199-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>45</ymin>
+			<xmax>509</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

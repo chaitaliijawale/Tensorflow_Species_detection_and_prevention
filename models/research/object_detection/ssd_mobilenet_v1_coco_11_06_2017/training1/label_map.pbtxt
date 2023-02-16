@@ -1,0 +1,32 @@
+item {
+  id: 1
+  name: 'africanelephant'
+}
+item {
+  id: 2
+  name: 'lion'
+}
+item {
+  id: 3
+  name: 'panther'
+}
+item {
+  id: 4
+  name: 'arcticfox'
+}
+item {
+  id: 5
+  name: 'cheetah'
+}
+item {
+  id: 6
+  name: 'panda'
+}
+item {
+  id: 7
+  name: 'rhino'
+}
+item {
+  id: 8
+  name: 'chimpanzee'
+}

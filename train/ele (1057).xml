@@ -1,0 +1,26 @@
+<annotation>
+	<folder>africanelephant</folder>
+	<filename>ele (1057).jpg</filename>
+	<path>C:\Users\aakas\Downloads\animaldataset_final\animaldataset_final\africanelephant\ele (1057).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>786</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>africanelephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>17</ymin>
+			<xmax>825</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

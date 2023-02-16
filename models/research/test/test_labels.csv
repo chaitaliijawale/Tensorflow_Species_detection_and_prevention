@@ -1,0 +1,37 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+20220531_185617.jpg,6936,9248,tomato,2091,3797,4721,6927
+20220531_190407.jpg,6936,9248,tomato,693,2851,4476,7165
+20220531_191407.jpg,6936,9248,tomato,1706,2012,5467,6858
+20220611_170038.jpg,2136,4624,tomato,349,1369,1786,3014
+20220616_163357.jpg,4000,1800,tomato,854,171,2464,1533
+20220616_163401.jpg,4000,1800,tomato,810,147,2472,1513
+anthracnose (1).jpg,1200,1093,anthracnose,332,514,597,807
+anthracnose (1).jpg,1200,1093,anthracnose,193,217,352,404
+anthracnose (2).jpg,1200,1093,anthracnose,196,214,403,446
+anthracnose (2).jpg,1200,1093,anthracnose,320,517,627,842
+anthracnose (3).jpg,300,225,anthracnose,60,33,209,169
+anthracnose (4).jpg,335,250,anthracnose,119,57,224,166
+anthracnose (5).jpg,335,250,anthracnose,123,54,234,184
+anthracnose (6).jpg,1200,809,anthracnose,272,105,935,702
+anthracnose (7).jpg,1200,809,anthracnose,512,110,783,321
+anthracnose (7).jpg,1200,809,anthracnose,399,449,661,647
+anthracnose (7).jpg,1200,809,anthracnose,712,511,884,700
+anthracnose (8).jpg,1200,915,anthracnose,396,298,823,711
+rawtomato (1).jpg,2136,4624,raw_tomato,586,1365,1745,2817
+rawtomato (2).jpg,2136,4624,raw_tomato,349,1299,1752,3395
+rawtomato (3).jpg,2136,4624,raw_tomato,782,1343,2037,2977
+rawtomato (4).jpg,4624,2136,raw_tomato,1512,675,2585,1946
+rawtomato (5).jpg,4624,2136,raw_tomato,1453,425,3023,1923
+rot (1).jpg,2987,1680,blossom_rotw,1053,539,2016,1567
+rot (10).jpg,400,217,blossom_rotw,47,64,131,167
+rot (2).jpg,2987,1680,blossom_rotw,1032,483,2047,1561
+rot (3).jpg,750,230,blossom_rotw,334,52,531,221
+rot (4).jpg,750,230,blossom_rotw,344,43,534,211
+rot (5).jpg,332,332,blossom_rotw,128,139,256,237
+rot (6).jpg,332,332,blossom_rotw,134,141,242,240
+rot (7).jpg,736,418,blossom_rotw,322,76,555,284
+rot (8).jpg,736,418,blossom_rotw,44,221,301,407
+rot (8).jpg,736,418,blossom_rotw,330,80,562,288
+rot (9).jpg,400,217,blossom_rotw,49,70,135,158
+rot (9).jpg,400,217,blossom_rotw,158,71,249,178
+rot (9).jpg,400,217,blossom_rotw,316,94,397,194

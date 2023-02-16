@@ -1,0 +1,38 @@
+<annotation>
+	<folder>panda</folder>
+	<filename>panda (44).jpg</filename>
+	<path>D:\animaldataset_final\panda\panda (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>80</ymin>
+			<xmax>279</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>98</ymin>
+			<xmax>430</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

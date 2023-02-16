@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anthracnose</folder>
+	<filename>anthracnose (84).jpg</filename>
+	<path>D:\projects\Tomato\dataset\anthracnose\anthracnose (84).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthracnose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>42</ymin>
+			<xmax>225</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anthracnose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>63</ymin>
+			<xmax>371</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

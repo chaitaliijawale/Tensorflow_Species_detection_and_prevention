@@ -1,0 +1,26 @@
+<annotation>
+	<folder>panther</folder>
+	<filename>panther (49).jpg</filename>
+	<path>D:\panther\panther (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panther</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>137</ymin>
+			<xmax>385</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

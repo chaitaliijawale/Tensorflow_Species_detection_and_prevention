@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>20220616_165734.jpg</filename>
+	<path>D:\projects\Tomato\dataset\tomato\20220616_165734.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1462</xmin>
+			<ymin>59</ymin>
+			<xmax>2916</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+</annotation>

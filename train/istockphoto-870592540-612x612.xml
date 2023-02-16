@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rhino</folder>
+	<filename>istockphoto-870592540-612x612.jpg</filename>
+	<path>D:\rhino\istockphoto-870592540-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>196</ymin>
+			<xmax>420</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

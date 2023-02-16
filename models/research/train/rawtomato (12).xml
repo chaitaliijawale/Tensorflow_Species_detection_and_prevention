@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw_tomato</folder>
+	<filename>rawtomato (12).jpg</filename>
+	<path>D:\projects\Tomato\dataset\raw_tomato\rawtomato (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>2136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raw_tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1580</xmin>
+			<ymin>325</ymin>
+			<xmax>3144</xmax>
+			<ymax>1566</ymax>
+		</bndbox>
+	</object>
+</annotation>
